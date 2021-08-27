@@ -1,7 +1,7 @@
 # text2leet
 text2leet character replacer for python
 # leet-module.py
-usage: leet.simple(string) or leet.good(string) or leet.hard(string)
+usage: ```leet.simple(string)``` or ```leet.good(string)``` or ```leet.hard(string)```
 # leet-main.py
 ```
 usage: leet-main.py [-h] [-o FILE] [-t TYPE] [string]
