@@ -15,4 +15,4 @@ optional arguments:
                         write translated string to FILE
   -t TYPE, --type TYPE  type for translation. can be "simple", "good" or
                         "hard"
-                        ```
+```
